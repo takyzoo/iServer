@@ -1,4 +1,4 @@
-# iServer for Pythonista by GoDzM4TT3O [!Build status](https://img.shields.io/badge/build-passing-blue.svg)
+# iServer for Pythonista by GoDzM4TT3O ![Build status](https://img.shields.io/badge/build-passing-blue.svg)
 
 ***
 
